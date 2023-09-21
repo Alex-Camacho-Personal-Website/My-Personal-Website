@@ -1,0 +1,60 @@
+html{ 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    background-image: url(https://r4.wallpaperflare.com/wallpaper/39/346/426/digital-art-men-city-futuristic-night-hd-wallpaper-01b69d213afe95f35634472bcdf74a70.jpg);
+    background-position: right top;
+    background-size: 1670px;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: rgb(0, 0, 0);
+    opacity: 0.7;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    text-align: center;
+    display: block;
+    border-style: solid; border-color: azure;
+}
+
+body{
+    margin-block: 5px;
+    padding-block: 5px;
+}
+
+h1{
+    font-family: monospace;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2{
+    margin-block: 5px;
+    padding-block: 5px;
+}
+
+h3{ 
+margin-block: 10px;
+}
+
+h5{
+margin-top: 10px;
+}
+section{
+    background-color: rgb(242, 242, 242);
+    opacity: 0.9;
+    display: block;
+    margin-inline-end: 1200px;
+    text-align: center;
+    border: solid;
+}
+
+main{ 
+    background-color: rgb(0, 0, 0);
+    opacity: 0.7;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    text-align: center;
+    display: block;
+    border-style: solid; border-color: azure;
+    margin-top: 20px;
+}
