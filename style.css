@@ -47,11 +47,11 @@ text-align: left;
 margin-left: 5px;
 }
 
-div{
+nav{
     background-color: rgb(19, 244, 206);
     opacity: 0.9;
     display: block;
-    margin-inline-end: 1200px;
+    margin-inline-end: 1100px;
     text-align: center;
     border: solid;
 }
@@ -89,9 +89,18 @@ article{
     display: flex;
 vertical-align: middle;
 }
+
 img{
 border: 2px solid rgb(50, 252, 255); 
-padding-right: 50px;
+padding-right: 1px;
+padding-top: 1px;
+padding-left: 1px;
+padding-right: 1px;
 margin-right: 30px;
 margin-top: 80px;
+}
+
+picture{
+align-items: center;
+margin-left: 450px;
 }
